@@ -1,3 +1,3 @@
 # Introduction to ML
 
-Follow the explanations and steps in the slides
+Follow the explanations and steps in the slides "Introduction to ML.odp"
